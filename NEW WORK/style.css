@@ -1,0 +1,13 @@
+*{
+    background:rgba(251, 250, 250, 0.986);
+}
+.p{
+  font-weight: 500;
+  color: #222;  
+}
+.w-10{
+width: 200px;
+}
+.h-10{
+height: 90px;
+}
